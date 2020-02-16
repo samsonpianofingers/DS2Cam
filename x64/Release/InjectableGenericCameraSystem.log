@@ -1,8 +1,0 @@
-﻿  Camera.cpp
-  Core.cpp
-  Generating code
-  1 of 312 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  InjectableGenericCameraSystem.vcxproj -> C:\Users\Eleni\source\repos\DS2Cam\Camera\x64\Release\DarkSoulsII_CameraTools.dll
